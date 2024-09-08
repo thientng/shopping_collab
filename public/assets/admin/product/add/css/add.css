@@ -1,0 +1,42 @@
+.card-header::after {
+  display: none;
+}
+/* tags ipnut css */
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display{
+  padding-left: 11px ;
+  color: #444 ;
+}
+/* placeholder (category) select2 */
+.select2-container .select2-selection--single {
+  height: initial;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  transform: translateY(-50%);
+  top: 50%;
+}
+
+/* arlert validate form */
+.alert-input_field {
+  padding: 5px 14px;
+  background-color: #dc3545;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.closebtn-input_field {
+  margin-left: 15px;
+  color: white;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn-input_field:hover {
+  color: black;
+}

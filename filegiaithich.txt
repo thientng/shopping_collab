@@ -1,0 +1,7 @@
+lưu ý : không đặt tên router trùng với tên file nằm trong public/
+
+app/Components dùng để viết những phương thức list(Recursive)
+
+Trait: là gì tự nghiên cứu ?
+
+backend : nguyên bản chưa có đăng nhập

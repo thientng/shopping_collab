@@ -1,0 +1,7 @@
+.image_feature-product {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    object-position: top center;
+    margin: 0 auto;
+  }
